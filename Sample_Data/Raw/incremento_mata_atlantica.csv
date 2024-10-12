@@ -1,0 +1,346 @@
+year;area km²;uf
+2006;1.183,51;Minas Gerais
+2005;1.183,51;Minas Gerais
+2003;1.075,59;Minas Gerais
+2002;1.075,59;Minas Gerais
+2001;1.075,59;Minas Gerais
+2004;1.075,59;Minas Gerais
+2007;1.157,45;Minas Gerais
+2008;1.157,45;Minas Gerais
+2010;443,78;Minas Gerais
+2009;443,78;Minas Gerais
+2014;496,46;Minas Gerais
+2011;497,59;Minas Gerais
+2013;418,25;Minas Gerais
+2012;418,25;Minas Gerais
+2018;490,63;Minas Gerais
+2015;348,86;Minas Gerais
+2016;348,86;Minas Gerais
+2017;195,09;Minas Gerais
+2019;294,10;Minas Gerais
+2022;323,78;Minas Gerais
+2021;250,98;Minas Gerais
+2020;227,50;Minas Gerais
+2023;288,30;Minas Gerais
+2006;1.302,55;Bahia
+2005;1.302,55;Bahia
+2003;1.531,83;Bahia
+2002;1.531,83;Bahia
+2001;1.531,83;Bahia
+2004;1.531,83;Bahia
+2007;897,36;Bahia
+2008;897,36;Bahia
+2010;291,14;Bahia
+2009;291,14;Bahia
+2014;271,67;Bahia
+2011;329,88;Bahia
+2013;232,18;Bahia
+2012;232,18;Bahia
+2018;178,74;Bahia
+2015;219,72;Bahia
+2016;219,72;Bahia
+2017;143,01;Bahia
+2019;273,06;Bahia
+2022;273,21;Bahia
+2021;124,83;Bahia
+2020;113,19;Bahia
+2023;175,21;Bahia
+2006;387,98;Rio Grande do Sul
+2005;387,98;Rio Grande do Sul
+2003;529,30;Rio Grande do Sul
+2002;529,30;Rio Grande do Sul
+2001;529,30;Rio Grande do Sul
+2004;529,30;Rio Grande do Sul
+2007;502,09;Rio Grande do Sul
+2008;502,09;Rio Grande do Sul
+2010;241,83;Rio Grande do Sul
+2009;241,83;Rio Grande do Sul
+2014;357,00;Rio Grande do Sul
+2011;318,68;Rio Grande do Sul
+2013;224,97;Rio Grande do Sul
+2012;224,97;Rio Grande do Sul
+2018;164,79;Rio Grande do Sul
+2015;165,81;Rio Grande do Sul
+2016;165,81;Rio Grande do Sul
+2017;315,36;Rio Grande do Sul
+2019;118,49;Rio Grande do Sul
+2022;117,92;Rio Grande do Sul
+2021;224,53;Rio Grande do Sul
+2020;151,32;Rio Grande do Sul
+2023;69,71;Rio Grande do Sul
+2006;716,70;Santa Catarina
+2005;716,70;Santa Catarina
+2003;476,66;Santa Catarina
+2002;476,66;Santa Catarina
+2001;476,66;Santa Catarina
+2004;476,66;Santa Catarina
+2007;448,73;Santa Catarina
+2008;448,73;Santa Catarina
+2010;359,02;Santa Catarina
+2009;359,02;Santa Catarina
+2014;225,02;Santa Catarina
+2011;184,06;Santa Catarina
+2013;127,08;Santa Catarina
+2012;127,08;Santa Catarina
+2018;166,76;Santa Catarina
+2015;128,56;Santa Catarina
+2016;128,56;Santa Catarina
+2017;177,49;Santa Catarina
+2019;129,51;Santa Catarina
+2022;106,31;Santa Catarina
+2021;90,01;Santa Catarina
+2020;73,05;Santa Catarina
+2023;85,73;Santa Catarina
+2006;698,62;Paraná
+2005;698,62;Paraná
+2003;600,06;Paraná
+2002;600,06;Paraná
+2001;600,06;Paraná
+2004;600,06;Paraná
+2007;310,11;Paraná
+2008;310,11;Paraná
+2010;220,44;Paraná
+2009;220,44;Paraná
+2014;166,71;Paraná
+2011;210,24;Paraná
+2013;145,82;Paraná
+2012;145,82;Paraná
+2018;148,09;Paraná
+2015;143,73;Paraná
+2016;143,73;Paraná
+2017;131,59;Paraná
+2019;122,67;Paraná
+2022;115,99;Paraná
+2021;124,43;Paraná
+2020;70,40;Paraná
+2023;53,77;Paraná
+2006;626,28;Pernambuco
+2005;626,28;Pernambuco
+2003;275,83;Pernambuco
+2002;275,83;Pernambuco
+2001;275,83;Pernambuco
+2004;275,83;Pernambuco
+2007;178,18;Pernambuco
+2008;178,18;Pernambuco
+2010;105,36;Pernambuco
+2009;105,36;Pernambuco
+2014;153,27;Pernambuco
+2011;96,00;Pernambuco
+2013;62,37;Pernambuco
+2012;62,37;Pernambuco
+2018;56,51;Pernambuco
+2015;54,44;Pernambuco
+2016;54,44;Pernambuco
+2017;58,45;Pernambuco
+2019;32,16;Pernambuco
+2022;18,56;Pernambuco
+2021;17,19;Pernambuco
+2020;24,24;Pernambuco
+2023;19,18;Pernambuco
+2006;347,83;São Paulo
+2005;347,83;São Paulo
+2003;295,33;São Paulo
+2002;295,33;São Paulo
+2001;295,33;São Paulo
+2004;295,33;São Paulo
+2007;98,71;São Paulo
+2008;98,71;São Paulo
+2010;120,16;São Paulo
+2009;120,16;São Paulo
+2014;75,37;São Paulo
+2011;55,11;São Paulo
+2013;52,49;São Paulo
+2012;52,49;São Paulo
+2018;40,00;São Paulo
+2015;27,78;São Paulo
+2016;27,78;São Paulo
+2017;63,86;São Paulo
+2019;25,38;São Paulo
+2022;21,84;São Paulo
+2021;22,84;São Paulo
+2020;30,70;São Paulo
+2023;10,78;São Paulo
+2006;383,00;Alagoas
+2005;383,00;Alagoas
+2003;236,35;Alagoas
+2002;236,35;Alagoas
+2001;236,35;Alagoas
+2004;236,35;Alagoas
+2007;101,72;Alagoas
+2008;101,72;Alagoas
+2010;70,09;Alagoas
+2009;70,09;Alagoas
+2014;42,04;Alagoas
+2011;39,80;Alagoas
+2013;29,08;Alagoas
+2012;29,08;Alagoas
+2018;8,43;Alagoas
+2015;22,96;Alagoas
+2016;22,96;Alagoas
+2017;18,17;Alagoas
+2019;7,67;Alagoas
+2022;8,24;Alagoas
+2021;6,86;Alagoas
+2020;17,43;Alagoas
+2023;9,31;Alagoas
+2006;105,24;Espírito Santo
+2005;105,24;Espírito Santo
+2003;270,23;Espírito Santo
+2002;270,23;Espírito Santo
+2001;270,23;Espírito Santo
+2004;270,23;Espírito Santo
+2007;116,33;Espírito Santo
+2008;116,33;Espírito Santo
+2010;24,86;Espírito Santo
+2009;24,86;Espírito Santo
+2014;29,72;Espírito Santo
+2011;27,13;Espírito Santo
+2013;24,72;Espírito Santo
+2012;24,72;Espírito Santo
+2018;16,13;Espírito Santo
+2015;26,13;Espírito Santo
+2016;26,13;Espírito Santo
+2017;10,06;Espírito Santo
+2019;40,19;Espírito Santo
+2022;17,23;Espírito Santo
+2021;29,30;Espírito Santo
+2020;19,97;Espírito Santo
+2023;18,47;Espírito Santo
+2006;309,48;Sergipe
+2005;309,48;Sergipe
+2003;127,40;Sergipe
+2002;127,40;Sergipe
+2001;127,40;Sergipe
+2004;127,40;Sergipe
+2007;88,38;Sergipe
+2008;88,38;Sergipe
+2010;54,43;Sergipe
+2009;54,43;Sergipe
+2014;29,82;Sergipe
+2011;67,08;Sergipe
+2013;56,97;Sergipe
+2012;56,97;Sergipe
+2018;22,40;Sergipe
+2015;32,80;Sergipe
+2016;32,80;Sergipe
+2017;11,23;Sergipe
+2019;6,74;Sergipe
+2022;9,66;Sergipe
+2021;5,40;Sergipe
+2020;34,28;Sergipe
+2023;15,01;Sergipe
+2006;162,24;Paraíba
+2005;162,24;Paraíba
+2003;56,89;Paraíba
+2002;56,89;Paraíba
+2001;56,89;Paraíba
+2004;56,89;Paraíba
+2007;30,13;Paraíba
+2008;30,13;Paraíba
+2010;26,93;Paraíba
+2009;26,93;Paraíba
+2014;5,26;Paraíba
+2011;16,74;Paraíba
+2013;7,29;Paraíba
+2012;7,29;Paraíba
+2018;18,02;Paraíba
+2015;12,70;Paraíba
+2016;12,70;Paraíba
+2017;10,21;Paraíba
+2019;0,90;Paraíba
+2022;3,03;Paraíba
+2021;3,95;Paraíba
+2020;2,07;Paraíba
+2023;2,65;Paraíba
+2006;49,17;Mato Grosso do Sul
+2005;49,17;Mato Grosso do Sul
+2003;68,50;Mato Grosso do Sul
+2002;68,50;Mato Grosso do Sul
+2001;68,50;Mato Grosso do Sul
+2004;68,50;Mato Grosso do Sul
+2007;30,55;Mato Grosso do Sul
+2008;30,55;Mato Grosso do Sul
+2010;14,47;Mato Grosso do Sul
+2009;14,47;Mato Grosso do Sul
+2014;10,90;Mato Grosso do Sul
+2011;14,64;Mato Grosso do Sul
+2013;10,70;Mato Grosso do Sul
+2012;10,70;Mato Grosso do Sul
+2018;14,39;Mato Grosso do Sul
+2015;8,82;Mato Grosso do Sul
+2016;8,82;Mato Grosso do Sul
+2017;8,32;Mato Grosso do Sul
+2019;7,40;Mato Grosso do Sul
+2022;10,49;Mato Grosso do Sul
+2021;16,63;Mato Grosso do Sul
+2020;14,85;Mato Grosso do Sul
+2023;6,42;Mato Grosso do Sul
+2006;61,74;Rio de Janeiro
+2005;61,74;Rio de Janeiro
+2003;33,52;Rio de Janeiro
+2002;33,52;Rio de Janeiro
+2001;33,52;Rio de Janeiro
+2004;33,52;Rio de Janeiro
+2007;25,90;Rio de Janeiro
+2008;25,90;Rio de Janeiro
+2010;29,29;Rio de Janeiro
+2009;29,29;Rio de Janeiro
+2014;19,86;Rio de Janeiro
+2011;14,73;Rio de Janeiro
+2013;29,50;Rio de Janeiro
+2012;29,50;Rio de Janeiro
+2018;14,13;Rio de Janeiro
+2015;12,25;Rio de Janeiro
+2016;12,25;Rio de Janeiro
+2017;19,83;Rio de Janeiro
+2019;7,54;Rio de Janeiro
+2022;5,42;Rio de Janeiro
+2021;7,67;Rio de Janeiro
+2020;9,23;Rio de Janeiro
+2023;8,43;Rio de Janeiro
+2006;17,52;Goiás
+2005;17,52;Goiás
+2003;30,97;Goiás
+2002;30,97;Goiás
+2001;30,97;Goiás
+2004;30,97;Goiás
+2007;9,11;Goiás
+2008;9,11;Goiás
+2010;9,02;Goiás
+2009;9,02;Goiás
+2014;3,64;Goiás
+2011;3,13;Goiás
+2013;4,43;Goiás
+2012;4,43;Goiás
+2018;2,01;Goiás
+2015;1,44;Goiás
+2016;1,44;Goiás
+2017;2,71;Goiás
+2019;0,50;Goiás
+2022;0,66;Goiás
+2021;1,10;Goiás
+2020;1,03;Goiás
+2023;0,58;Goiás
+2006;32,29;Rio Grande do Norte
+2005;32,29;Rio Grande do Norte
+2003;17,45;Rio Grande do Norte
+2002;17,45;Rio Grande do Norte
+2001;17,45;Rio Grande do Norte
+2004;17,45;Rio Grande do Norte
+2007;9,65;Rio Grande do Norte
+2008;9,65;Rio Grande do Norte
+2010;9,61;Rio Grande do Norte
+2009;9,61;Rio Grande do Norte
+2014;0,67;Rio Grande do Norte
+2011;5,08;Rio Grande do Norte
+2013;1,96;Rio Grande do Norte
+2012;1,96;Rio Grande do Norte
+2018;3,30;Rio Grande do Norte
+2015;0,83;Rio Grande do Norte
+2016;0,83;Rio Grande do Norte
+2017;0,76;Rio Grande do Norte
+2019;1,08;Rio Grande do Norte
+2022;0,34;Rio Grande do Norte
+2021;1,24;Rio Grande do Norte
+2020;1,41;Rio Grande do Norte
+2023;1,60;Rio Grande do Norte
